@@ -1,5 +1,8 @@
 # AsthmaHeroes
 
+For access to the entire project resources including the code, visit Breathing Games repo on gitlab
+https://gitlab.com/breathinggames/bg_asthmaheroes
+
 Unity · Health Education · Serious Game
 
 Asthma Heroes is a serious game developed in Unity by me alone to help children learn how to manage their asthma through playful, interactive experiences. 
