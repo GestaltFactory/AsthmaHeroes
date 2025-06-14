@@ -1,7 +1,7 @@
 # AsthmaHeroes
 
 For access to the entire project resources including the code, visit Breathing Games repo on gitlab
-https://gitlab.com/breathinggames/bg_asthmaheroes
+<br> https://gitlab.com/breathinggames/bg_asthmaheroes
 
 Unity · Health Education · Serious Game
 
