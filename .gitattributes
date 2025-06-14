@@ -6,3 +6,6 @@
 # If you're using C#, HTML, Razor, etc., force the language if needed:
 # For example, treat .cshtml files as Razor
 *.cshtml linguist-language=Razor
+
+# Force entire project to be classified as C#
+* linguist-language=C#
